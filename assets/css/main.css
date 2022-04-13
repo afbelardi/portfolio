@@ -2168,15 +2168,15 @@ input, select, textarea {
 	}
 
 	.national-park {
-		width: 300px;
+		width: 375px;
 		height: 260px;
-		border-radius: 70px;
+		border-radius: 15px;
 	}
 
 	.store {
-		width: 300px;
+		width: 350px;
 		height: 260px;
-		border-radius: 70px;
+		border-radius: 15px;
 	}
 
 	select {
