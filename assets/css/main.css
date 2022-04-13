@@ -2168,13 +2168,13 @@ input, select, textarea {
 	}
 
 	.national-park {
-		width: 350px;
+		width: 375px;
 		height: 260px;
 		border-radius: 15px;
 	}
 
 	.store {
-		width: 350px;
+		width: 375px;
 		height: 260px;
 		border-radius: 15px;
 	}
@@ -2846,7 +2846,7 @@ input, select, textarea {
 				margin-bottom: 0;
 			}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 1800px) {
 
 			.features li {
 				width: calc(50% - 2em);
@@ -2858,7 +2858,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 900px) {
 
 			.features {
 				width: 100%;
