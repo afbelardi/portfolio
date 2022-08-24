@@ -2176,7 +2176,7 @@ input, select, textarea {
 	.store {
 		width: 375px;
 		height: 260px;
-		border-radius: 15px;
+		border-radius: 8px;
 	}
 
 	select {
@@ -2405,7 +2405,7 @@ input, select, textarea {
 			margin: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
-		
+
 
 		.image.right {
 			float: right;
