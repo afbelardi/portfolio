@@ -2176,7 +2176,7 @@ input, select, textarea {
 	.store {
 		width: 375px;
 		height: 260px;
-		border-radius: 8px;
+		border-radius: 4px;
 	}
 
 	select {
